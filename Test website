@@ -1,0 +1,13 @@
+<link> href="http://www.fontsquirrel.com/fonts/exo" 
+rel="styleshet"
+type="text/css"
+</link>
+<style>
+.red-text { color: red;}
+</style>
+
+<h1 font-family: Exo, Monospace;>Scott's Test Website
+<</h1>
+
+<p class="red-text">This is a random message to test my abilities at writing
+</p>
